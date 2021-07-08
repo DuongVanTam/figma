@@ -270,4 +270,7 @@ export default {
 .fa-circle{
   color: red;
 }
+.main__card--height{
+  height: 448px;
+}
 </style>
